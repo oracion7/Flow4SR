@@ -4,14 +4,14 @@
 
 This repository hosts the official implementation of the paper:
 
-[cite_start]**"Flow4SR: Flow Matching for Sequential Recommendation"** [cite: 1]
+**"Flow4SR: Flow Matching for Sequential Recommendation"**
 
 ## 🚀 Status
 
 Coming soon...
 
-[cite_start]The official source code will be made accessible following the acceptance of the manuscript. [cite: 10]
+The official source code will be made accessible following the acceptance of the manuscript.
 
 ---
 
-[cite_start]**Keywords:** Sequential Recommendation, Generative Model, Flow Matching [cite: 11]
+**Keywords:** Sequential Recommendation, Generative Model, Flow Matching
