@@ -1,10 +1,10 @@
-# Flow4SR: Flow Matching for Sequential Recommendation
+# Behavior-Conditioned Flow Matching via Adaptive Vector Field for Generative Sequential Recommendation
 
 ## 💡 About
 
 This repository hosts the official implementation of the paper:
 
-**"Flow4SR: Flow Matching for Sequential Recommendation"**
+**"Behavior-Conditioned Flow Matching via Adaptive Vector Field for Generative Sequential Recommendation"**
 
 ## 🚀 Status
 
